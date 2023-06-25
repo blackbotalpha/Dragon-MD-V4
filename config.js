@@ -17,7 +17,7 @@ module.exports = {
   aliveimg: process.env.ALIVE_IMAGE || 'https://telegra.ph/file/55f1d0b60d084bd0729fb.jpg',
   botname: process.env.BOT_NAME || '❒═❲𝐁𝐋𝐀𝐂𝐊-𝐊𝐈𝐍𝐆𝐃𝐎𝐌𝐄❳═❒',
   ownername:process.env.OWNER_NAME || '❒𝐁𝐋𝐀𝐂𝐊 𝐒𝐘𝐁𝐄𝐑🎯❒',
-  sessionName: process.env.SESSION_ID || 'PUT-HERE',
+  sessionName: process.env.SESSION_ID || 'Secktor;;;IcebergBizarro',
   author: process.env.PACK_INFO.split(";")[0] || '❒𝐊𝐈𝐍𝐆-𝐙𝐈𝐙𝐔𝐊𝐎❒', 
   auto_read_status : process.env.AUTO_READ_STATUS || 'true',
   packname: process.env.PACK_INFO.split(";")[1] || '❒═❲BLACK-KINGDOME❳═❒',
@@ -35,7 +35,7 @@ module.exports = {
   antilink: process.env.ANTILINK_VALUES || 'chat.whatsapp.com',
   antilinkaction: process.env.ANTILINK_ACTION || 'remove',
   BRANCH: 'black-md',
-  ALIVE_MESSAGE: process.env.ALIVE_MESSAGE || `💯 _*Deverloper*_ :- _black-ZIZUKO\n💯 _*Owner*_ :- _${process.env.OWNER_NAME}_\n💯 _*Bot Name*_ :- BLACK KINGDOME\n💯 _*Vertion*_ :- 🙂 _ZIZUKO ♾\n\n_🙂 .𝚊𝚕𝚒𝚟𝚎 = 𝚋𝚘𝚝 𝚒𝚜 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚑𝚎𝚌𝚔_\n_🐉 .𝚖𝚎𝚗𝚞 = 𝚐𝚎𝚝 𝚋𝚘𝚝 𝚖𝚎𝚗𝚞_\n_🐉 .song = 𝚍𝚘𝚠𝚗𝚕𝚘𝚊𝚍 𝚢𝚘𝚞𝚝𝚞𝚋𝚎 𝚜𝚘𝚗𝚐_\n_🐉 .video = 𝚍𝚘𝚠𝚗𝚕𝚘𝚊𝚍 𝚢𝚘𝚞𝚝𝚞𝚋𝚎 𝚟𝚒𝚍𝚎𝚘_\n_🐉 .yt = 𝚜𝚎𝚊𝚛𝚌𝚑 𝚒𝚗 𝚢𝚘𝚞𝚝𝚞𝚋𝚎_`,
+  ALIVE_MESSAGE: process.env.ALIVE_MESSAGE || `💯 _*Deverloper*_ :- _black-ZIZUKO\n💯 _*Owner*_ :- _${process.env.OWNER_NAME}_\n💯 _*Bot Name*_ :- BLACK KINGDOME\n💯 _*Vertion*_ :- 🙂 _ZIZUKO ♾\n\n_🙂 .𝚊𝚕𝚒𝚟𝚎 = 𝚋𝚘𝚝 𝚒𝚜 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚑𝚎𝚌𝚔_\n_🧚‍♂️ .𝚖𝚎𝚗𝚞 = 𝚐𝚎𝚝 𝚋𝚘𝚝 𝚖𝚎𝚗𝚞_\n_🧚‍♂️ .song = 𝚍𝚘𝚠𝚗𝚕𝚘𝚊𝚍 𝚢𝚘𝚞𝚝𝚞𝚋𝚎 𝚜𝚘𝚗𝚐_\n_🐉 .video = 𝚍𝚘𝚠𝚗𝚕𝚘𝚊𝚍 𝚢𝚘𝚞𝚝𝚞𝚋𝚎 𝚟𝚒𝚍𝚎𝚘_\n_🐉 .yt = 𝚜𝚎𝚊𝚛𝚌𝚑 𝚒𝚗 𝚢𝚘𝚞𝚝𝚞𝚋𝚎_`,
   OPENAI_API_KEY: process.env.OPENAI_API_KEY || 'put-key-here',
   heroku: process.env.heroku || false,
   HEROKU: {
